@@ -1,0 +1,14 @@
+steerpipe — research-to-Instagram pipeline (prototype built for steer) — Evaluation Licence
+© 2026 Chandra Prakash. All rights reserved.
+
+This prototype is provided solely so that hackathon judges can view and evaluate it.
+
+You MAY: open, play and demo it for evaluation of the hackathon submission.
+You MAY NOT, without the author's prior written permission:
+  - deploy it, or any part of it, to production or to paying or real users;
+  - copy, modify, de-obfuscate, reverse-engineer or make derivative works from it;
+  - remove or obscure the watermarks, copyright notices or build fingerprint;
+  - use its code, copy, design, prompts, verification logic, templates or pipeline design in any product or campaign.
+
+Each build carries a unique fingerprint (visible and invisible) that identifies the copy.
+Production licensing: contact the author at gamerchandra190@gmail.com.

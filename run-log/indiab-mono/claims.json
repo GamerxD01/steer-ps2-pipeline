@@ -1,0 +1,210 @@
+{
+ "paper": {
+  "title": "High prevalence of metabolic obesity in India: The ICMR-INDIAB national study (ICMR-INDIAB-23)",
+  "journal": "The Indian Journal of Medical Research",
+  "year": "2025",
+  "doi": "10.25259/IJMR_328_2025",
+  "design": "Nationally representative cross-sectional survey",
+  "population": "Adults aged 20+ across 31 Indian States/UTs; blood tests in 19,370 people",
+  "funding_or_coi": "ICMR-funded national survey (government)"
+ },
+ "verified": [
+  {
+   "id": "C1",
+   "finding": "43.3% of Indian adults are 'metabolically obese' even though their BMI is under 25.",
+   "quote": "In this nationally representative study of India, we show that (i) the largest proportion (43.3%) of the population in India is metabolically obese but with BMI<25 kg/m2 (referred to as MONO), (ii) MONO is more prevalent in rural areas and among males, (iii) MOO showed highest risk for diabetes and CAD, while MONO showed the highest risk of CKD especially among females.",
+   "location": "p31",
+   "numbers": [
+    "43.3%",
+    "25"
+   ],
+   "type": "result",
+   "population": "Indian adults 20+, national sample",
+   "caveat": "Cross-sectional; 'metabolic obesity' = 2+ risk factors.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C2",
+   "finding": "Only 26.6% were both normal-BMI and metabolically healthy; 28.3% had both high BMI and metabolic problems.",
+   "quote": "The prevalence of various obesity subtypes was as follows: MONO: 43.3 per cent [95% confidence interval (CI): 42.6-44%], MOO: 28.3 per cent (27.7-28.9%), MHNO: 26.6 per cent (26-27.2%), and MHO: 1.8 per cent (1.6-2%).",
+   "location": "p3",
+   "numbers": [
+    "26.6",
+    "28.3"
+   ],
+   "type": "result",
+   "population": "Indian adults",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C3",
+   "finding": "Metabolic obesity here means 2 or more of: waist ≥90 cm (men) / ≥80 cm (women), fasting sugar ≥100, BP ≥130/85, triglycerides ≥150, or low HDL.",
+   "quote": "Metabolic obesity was defined as having ≥2 components of metabolic syndrome: (i) waist circumference ≥90 cm in males and ≥80 cm, in females, (ii) fasting blood glucose (FBG) ≥100 mg/dl, (iii) BP ≥130/85 mmHg or on anti-hypertensive medications, (iv) serum triglyceride levels ≥150 mg/dl or (v) HDL cholesterol <40 mg/dl for males and <50 mg/dl for females.",
+   "location": "p13",
+   "numbers": [
+    "90",
+    "80",
+    "100",
+    "130",
+    "85",
+    "150"
+   ],
+   "type": "definition",
+   "population": "Study definition",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "eligibility",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C4",
+   "finding": "This 'thin-outside, unhealthy-inside' group had about 6.9 times the odds of type 2 diabetes compared with the healthy normal-weight group.",
+   "quote": "The risk of T2D was highest in MOO [Odds ratio (OR)=12.89; 95% CI: 9.54-17.43; P<0.001], especially among females, followed by MONO (OR=6.90; 95% CI: 5.10-9.34; P<0.001) after adjusting for confounders.",
+   "location": "p29",
+   "numbers": [
+    "6.9",
+    "12.89"
+   ],
+   "type": "result",
+   "population": "Blood-tested subsample",
+   "caveat": "Odds ratios from a cross-sectional survey, not lifetime risk.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C5",
+   "finding": "Indians tend to develop type 2 diabetes and related problems at a lower BMI than other ethnic groups.",
+   "quote": "Compared to other ethnicities, Asian Indians have a distinct susceptibility to develop T2D and other obesity-related metabolic disorders at a lower BMI.",
+   "location": "p5",
+   "numbers": [],
+   "type": "background",
+   "population": "Asian Indians",
+   "caveat": "Background statement citing earlier studies.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C6",
+   "finding": "A normal BMI can hide excess body fat; waist-based measures predict risk better.",
+   "quote": "Therefore, a normal BMI may conceal the presence of excess body fat. WC, WHR, and WHtR are considered better predictors of health risks associated with obesity than BMI, as they provide information on fat distribution and central adiposity.",
+   "location": "p32",
+   "numbers": [],
+   "type": "background",
+   "population": "General",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C7",
+   "finding": "More than a third of people even in their 20s were in this group.",
+   "quote": "Our findings that more than a third of individuals, even in the 20-29 yr age group, had MONO is a concerning trend given the long-term health risks associated with metabolic dysfunction.",
+   "location": "p35",
+   "numbers": [
+    "20"
+   ],
+   "type": "result",
+   "population": "Adults 20–29",
+   "caveat": "",
+   "relevance": 4,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C8",
+   "finding": "Simple checks like waist measurement and BP can catch this early; BMI alone misses it.",
+   "quote": "While diagnostic tests like insulin resistance assessments and detailed lipid panels are available to identify individuals at risk, simpler and more accessible screening tools, such as WC, WHR, WHtR, and BP measurements, can help detect this unfavourable phenotype early.",
+   "location": "p37",
+   "numbers": [],
+   "type": "result",
+   "population": "",
+   "caveat": "Authors' recommendation.",
+   "relevance": 5,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C9",
+   "finding": "Low HDL ('good' cholesterol) was the most common component, seen in 79.2%, followed by BP at 69.5%.",
+   "quote": "Among the five components of metabolic obesity, HDL-C had the highest contribution (79.2%; 95% CI: 78.5-79.9%), followed by BP (69.5%; 95% CI: 68.7-70.2%), fasting blood glucose (57.7%; 95% CI: 56.9-58.6%), WC (55.7%; 95% CI: 54.9-56.6%), and triglycerides (42.8%; 95% CI: 42-43.7%).",
+   "location": "p23",
+   "numbers": [
+    "79.2%",
+    "69.5%"
+   ],
+   "type": "result",
+   "population": "People with metabolic obesity",
+   "caveat": "",
+   "relevance": 3,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C10",
+   "finding": "MONO was the most common type in every State, from 34.8% in Delhi to 56.7% in Tripura.",
+   "quote": "MONO was the most common subtype in all States, with prevalence ranging from 34.8 per cent (95% CI: 27.7-41.9%) in Delhi to 56.7 per cent (95% CI: 52.6-60.8%) in Tripura.",
+   "location": "p23",
+   "numbers": [
+    "34.8",
+    "56.7"
+   ],
+   "type": "result",
+   "population": "State-level",
+   "caveat": "",
+   "relevance": 3,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C11",
+   "finding": "Limitation: a one-time survey, so it can't show cause and effect.",
+   "quote": "Some of the limitations of our study include the fact that it is cross-sectional, which prevents us from assessing causal implications or looking at long-term outcomes.",
+   "location": "p38",
+   "numbers": [],
+   "type": "limitation",
+   "population": "",
+   "caveat": "",
+   "relevance": 4,
+   "steer_theme": "other",
+   "verified": true,
+   "problems": []
+  }
+ ],
+ "dropped": [],
+ "limitations": [
+  {
+   "text": "Cross-sectional",
+   "quote": "Some of the limitations of our study include the fact that it is cross-sectional, which prevents us from assessing causal implications or looking at long-term outcomes.",
+   "location": "p38"
+  },
+  {
+   "text": "Direction unclear",
+   "quote": "For example, it is unclear whether MONO precedes disease onset or is a consequence; longitudinal studies are needed to confirm causality.",
+   "location": "p38"
+  }
+ ],
+ "do_not_say": [
+  "\"43% of Indians are obese\" — they have normal BMI; the term is metabolic.",
+  "\"Thin people will get diabetes\" — odds are higher; not a prediction for an individual.",
+  "\"You need medicine if your waist is over 90/80 cm\" — the paper recommends screening, not drugs.",
+  "Any shaming of body size."
+ ]
+}

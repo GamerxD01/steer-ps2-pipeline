@@ -1,0 +1,277 @@
+{
+ "paper": {
+  "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+  "journal": "Diabetes, Obesity & Metabolism",
+  "year": "2022",
+  "doi": "10.1111/dom.14725",
+  "design": "Off-treatment observational extension of a randomised, double-blind, placebo-controlled trial (exploratory analyses)",
+  "population": "327 adults with obesity (or overweight plus a weight-related condition), without diabetes, from Canada, Germany, Japan, the UK and the US; 67% female, 75.8% White, mean age 49",
+  "funding_or_coi": "Several authors employed by / own stock in Novo Nordisk, the drug's manufacturer"
+ },
+ "verified": [
+  {
+   "id": "C1",
+   "finding": "One year after stopping the weekly GLP-1 injection and the lifestyle programme, people regained about two-thirds of the weight they had lost.",
+   "quote": "One year after withdrawal of once‐weekly subcutaneous semaglutide 2.4 mg and lifestyle intervention, participants regained two‐thirds of their prior weight loss, with similar changes in cardiometabolic variables.",
+   "location": "p4",
+   "numbers": [
+    "2.4"
+   ],
+   "type": "result",
+   "population": "327 adults with obesity, no diabetes, 5 high-income countries",
+   "caveat": "Lifestyle support was also stopped; does not show what happens if habits are kept up.",
+   "relevance": 5,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C2",
+   "finding": "During 68 weeks of treatment, average weight loss was 17.3% on the medicine vs 2.0% on placebo.",
+   "quote": "From week 0 to week 68, mean weight loss was 17.3% (SD: 9.3%) with semaglutide and 2.0% (SD: 6.1%) with placebo.",
+   "location": "p3",
+   "numbers": [
+    "68",
+    "17.3%",
+    "2.0%"
+   ],
+   "type": "result",
+   "population": "Extension participants who completed 68 weeks",
+   "caveat": "Averages; individual results varied widely (SD 9.3%). Only people who completed treatment were included.",
+   "relevance": 4,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C3",
+   "finding": "After stopping, people regained 11.6 percentage points by week 120, leaving a net loss of 5.6% from where they started.",
+   "quote": "Following treatment withdrawal, semaglutide and placebo participants regained 11.6 (SD: 7.7) and 1.9 (SD: 4.8) percentage points of lost weight, respectively, by week 120, resulting in net losses of 5.6% (SD: 8.9%) and 0.1% (SD: 5.8%), respectively, from week 0 to week 120.",
+   "location": "p3",
+   "numbers": [
+    "11.6",
+    "120",
+    "5.6%"
+   ],
+   "type": "result",
+   "population": "327 extension participants",
+   "caveat": "Follow-up was one year off treatment; longer-term trajectory unknown.",
+   "relevance": 5,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C4",
+   "finding": "At week 120, 48.2% of the medicine group still kept off at least 5% of their starting weight, compared with 22.6% on placebo.",
+   "quote": "At week 120, 5% or higher weight loss from baseline was observed in 48.2% of participants (95 of 197) in the semaglutide arm and in 22.6% (21 of 93) in the placebo arm.",
+   "location": "p24",
+   "numbers": [
+    "120",
+    "5%",
+    "48.2%",
+    "22.6%"
+   ],
+   "type": "result",
+   "population": "290 participants with week-120 site data",
+   "caveat": "Down from 86.4% at the end of treatment.",
+   "relevance": 4,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C5",
+   "finding": "The share keeping off at least 5% fell from 86.4% at the end of treatment to 48.2% a year after stopping.",
+   "quote": "Almost half of the participants in the semaglutide arm (48.2%) still had clinically meaningful weight loss of 5% or more from baseline at week 120, although this proportion represented a substantial fall from that originally achieved at the end of 68 weeks of treatment (86.4%).",
+   "location": "p35",
+   "numbers": [
+    "48.2%",
+    "86.4%"
+   ],
+   "type": "result",
+   "population": "Medicine arm of the extension",
+   "caveat": "Exploratory analysis; no significance testing.",
+   "relevance": 4,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C6",
+   "finding": "Blood pressure and most heart-health markers that improved during treatment drifted back towards starting levels after stopping.",
+   "quote": "Cardiometabolic improvements seen from week 0 to week 68 with semaglutide reverted towards baseline at week 120 for most variables.",
+   "location": "p3",
+   "numbers": [
+    "68",
+    "120"
+   ],
+   "type": "result",
+   "population": "327 extension participants",
+   "caveat": "Some markers (CRP, some lipids) stayed slightly better than baseline.",
+   "relevance": 4,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C7",
+   "finding": "Among people with prediabetes, 93.6% had normal blood sugar at the end of treatment; a year after stopping this was 43.3% (vs 34.0% on placebo).",
+   "quote": "Among participants with prediabetes at baseline, numerically more participants reverted to normoglycaemia at week 68 with semaglutide than placebo (93.6% vs. 41.5%; Figure 3). After treatment withdrawal, improvements deteriorated in both arms. Although the deterioration was larger in the semaglutide arm, a relative improvement was maintained versus the placebo arm at week 120, with reversion to normoglycaemia in 43.3% versus 34.0% of participants with baseline prediabetes in the semaglutide and placebo arms, respectively.",
+   "location": "p33",
+   "numbers": [
+    "93.6%",
+    "43.3%",
+    "34.0%"
+   ],
+   "type": "result",
+   "population": "Participants with prediabetes at baseline (59.6% of the sample)",
+   "caveat": "Exploratory; not powered for this outcome.",
+   "relevance": 4,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C8",
+   "finding": "The authors say the results show obesity is a long-term (chronic) condition and that ongoing treatment is needed to keep the benefits.",
+   "quote": "Findings confirm the chronicity of obesity and suggest ongoing treatment is required to maintain improvements in weight and health.",
+   "location": "p4",
+   "numbers": [],
+   "type": "result",
+   "population": "Adults with obesity in the trial",
+   "caveat": "Authors' interpretation; several authors are employed by the manufacturer.",
+   "relevance": 5,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C9",
+   "finding": "After weight loss, the body triggers biological changes that push weight back up, so regain is common.",
+   "quote": "Weight loss activates compensatory biological changes that prevent the maintenance of long‐term weight loss 8 , 9 ; weight regain is common.",
+   "location": "p6",
+   "numbers": [],
+   "type": "background",
+   "population": "People with obesity (general background)",
+   "caveat": "Background statement citing other studies, not a result of this trial.",
+   "relevance": 5,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C10",
+   "finding": "The lifestyle programme during treatment was a 500 kcal/day deficit plus 150 minutes of activity a week, with counselling every 4 weeks.",
+   "quote": "The lifestyle intervention consisted of counselling every 4 weeks on diet (500 kcal deficit per day relative to total estimated energy expenditure at randomization) and physical activity (150 minutes per week).",
+   "location": "p9",
+   "numbers": [
+    "500",
+    "150"
+   ],
+   "type": "method",
+   "population": "All STEP 1 participants",
+   "caveat": "This support stopped at week 68; the trial does not test continued habits after stopping.",
+   "relevance": 3,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C11",
+   "finding": "Unlike other withdrawal trials, there was no structured lifestyle support after stopping, which the authors say may have contributed to regain.",
+   "quote": "Furthermore, the absence of structured lifestyle intervention following semaglutide withdrawal contrasts with the continuation of lifestyle intervention in other withdrawal trials (including in STEP 4) 13 , 14 , 15 and may also have contributed to the trajectory of weight regain.",
+   "location": "p37",
+   "numbers": [
+    "4"
+   ],
+   "type": "limitation",
+   "population": "Extension participants",
+   "caveat": "Hypothesis by the authors; not tested.",
+   "relevance": 5,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C12",
+   "finding": "People who lost the most weight regained the most, but still ended up with the biggest net loss.",
+   "quote": "Subgroups with greater weight losses from week 0 to week 68 tended to have numerically greater weight regains from week 68 to week 120, but maintained numerically greater net weight losses from week 0 to week 120 (Figure 1B and Table S3).",
+   "location": "p27",
+   "numbers": [
+    "68",
+    "120"
+   ],
+   "type": "result",
+   "population": "Medicine arm, by weight-loss subgroup",
+   "caveat": "Subgroup, exploratory.",
+   "relevance": 3,
+   "steer_theme": "regain",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C13",
+   "finding": "Most participants were women (67.0%) and White (75.8%), average age 49.",
+   "quote": "Most participants were female (67.0%) and White (75.8%), with a mean age of 49.0 years, weight of 105.5 kg and BMI of 37.6 kg/m2.",
+   "location": "p23",
+   "numbers": [
+    "67.0%",
+    "75.8%",
+    "49.0"
+   ],
+   "type": "definition",
+   "population": "Extension analysis set",
+   "caveat": "No South Asian sub-group; Indian bodies carry risk at lower BMI, so results may not transfer directly.",
+   "relevance": 4,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C14",
+   "finding": "Key limitations: small sample, site selection that could bias results, and all analyses were exploratory with no formal significance tests.",
+   "quote": "The key limitations of the extension were the relatively small sample size compared with the main STEP 1 trial population and the selection of sites based on those with the highest recruitment in the STEP 1 main phase, which could introduce an element of selection bias.",
+   "location": "p41",
+   "numbers": [],
+   "type": "limitation",
+   "population": "Extension",
+   "caveat": "",
+   "relevance": 3,
+   "steer_theme": "other",
+   "verified": true,
+   "problems": []
+  }
+ ],
+ "dropped": [],
+ "limitations": [
+  {
+   "text": "Small sample; possible selection bias",
+   "quote": "The key limitations of the extension were the relatively small sample size compared with the main STEP 1 trial population",
+   "location": "p41"
+  },
+  {
+   "text": "Exploratory only",
+   "quote": "In addition, all analyses were exploratory and thus no formal tests of statistical significance were performed.",
+   "location": "p41"
+  },
+  {
+   "text": "No adverse events collected off-treatment",
+   "quote": "No systematic collection of adverse events was performed in the extension.",
+   "location": "p12"
+  },
+  {
+   "text": "Industry-employed authors",
+   "quote": "KKa reports being employed by and owning stock in Novo Nordisk.",
+   "location": "p44"
+  }
+ ],
+ "do_not_say": [
+  "\"The medicine doesn't work\" — it did cause large weight loss during treatment.",
+  "\"You'll gain it all back\" — on average people kept a net 5.6% off and 48.2% kept ≥5% off.",
+  "\"Lifestyle alone keeps weight off after stopping\" — this trial stopped lifestyle support too; it did not test that.",
+  "\"Everyone must stay on it forever\" — that is the authors' interpretation, not a tested result; decision is individual with a doctor.",
+  "Any brand, dose or 'ask your doctor for X' messaging (CDSCO advisory, March 2026).",
+  "Applying numbers directly to Indians — population was 75.8% White with no South Asian subgroup."
+ ]
+}

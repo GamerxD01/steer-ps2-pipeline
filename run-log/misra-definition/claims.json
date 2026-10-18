@@ -1,0 +1,217 @@
+{
+ "paper": {
+  "title": "Revised definition of obesity in Asian Indians living in India",
+  "journal": "Diabetes & Metabolic Syndrome: Clinical Research & Reviews",
+  "year": "2025",
+  "doi": "10.1016/j.dsx.2024.102989",
+  "design": "Expert consensus guideline (5-round Delphi process) with literature review",
+  "population": "Asian Indians living in India (adults)",
+  "funding_or_coi": "Not extracted from the PDF text; check the paper's declarations"
+ },
+ "verified": [
+  {
+   "id": "C2",
+   "finding": "Stage 1 obesity: BMI above 23 with extra body fat but no effect yet on organ function or daily activities.",
+   "quote": "Results: In Stage 1 Obesity, individuals exhibit increased adiposity (BMI>23 kg/m2) without discernible effects on organ functions or daily activities.",
+   "location": "page 1 ¶3",
+   "numbers": [
+    "23"
+   ],
+   "type": "definition",
+   "population": "Asian Indians in India",
+   "caveat": "Expert consensus, not a trial result.",
+   "relevance": 5,
+   "steer_theme": "eligibility",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C3",
+   "finding": "Stage 2 obesity needs BMI above 23 plus a high waist or waist-to-height ratio.",
+   "quote": "The criteria for Stage 2 Obesity include a mandatory BMI exceeding 23 kg/m2 and at least one of the following: excess waist circumference or waist-to-height ratio.",
+   "location": "page 1 ¶4",
+   "numbers": [
+    "23"
+   ],
+   "type": "definition",
+   "population": "Asian Indians in India",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "eligibility",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C4",
+   "finding": "Stage 2 also needs at least one sign of daily-life limitation or an obesity-related disease.",
+   "quote": "Additionally, the presence of one or more symptoms indicative of limitations in daily activities or one or more obesity-related comorbid conditions/diseases are needed to support the stage 2 obesity.",
+   "location": "page 1 ¶4",
+   "numbers": [],
+   "type": "definition",
+   "population": "Asian Indians in India",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "eligibility",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C5",
+   "finding": "Abdominal obesity cut-offs: waist 90 cm or more in men, 80 cm or more in women; waist-to-height ratio above 0.5.",
+   "quote": "a. WC Cutoffs level: WC ≥90 cm in men and ≥80 cm in women [10]. b. W-HtR cutoff level: >0.5 [70].",
+   "location": "page 7 ¶4",
+   "numbers": [
+    "90",
+    "80",
+    "0.5"
+   ],
+   "type": "definition",
+   "population": "Asian Indian adults",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C6",
+   "finding": "BMI can't tell muscle from fat or bone, and varies with age, sex and ethnicity.",
+   "quote": "However, one of the key limitations of BMI is that it varies with age, sex, ethnicity, and physical conditioning. Further, it cannot distinguish between bone density, muscle mass, and body fat [6].",
+   "location": "page 4 ¶1",
+   "numbers": [],
+   "type": "background",
+   "population": "General",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "muscle",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C7",
+   "finding": "In national Indian survey data, BMI and diabetes were linked beyond a BMI of 21.8.",
+   "quote": "After accounting for factors such as age, gender, caste, area, and survey round, a positive correlation was discovered between BMI and diabetes, beyond a BMI of 21.8 kg/m2 [37].",
+   "location": "page 4 ¶1",
+   "numbers": [
+    "21.8"
+   ],
+   "type": "background",
+   "population": "Indian national survey data (IHDS, DHS), cited study",
+   "caveat": "Correlation from a cited study, not this paper's own data.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C8",
+   "finding": "Asian Indians show more disease at smaller waist sizes than white Caucasians.",
+   "quote": "Asian Indians, in particular, have higher morbidity rates at lower WC cutoff points than white Caucasians [30].",
+   "location": "page 3 ¶7",
+   "numbers": [],
+   "type": "background",
+   "population": "Asian Indians vs white Caucasians",
+   "caveat": "Cited evidence.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C9",
+   "finding": "Daily-life signs include breathlessness, palpitations and lower-limb joint pain during everyday activities.",
+   "quote": "Clinical findings such as shortness of breath, palpitations, (indicating obesity related impairment of lungs and heart) and musculoskeletal symptoms like pain of joints of lower limbs (obesity related impairment of weight bearing joints) on doing activities within the house, bathing, dressing, toileting, eating, etc.",
+   "location": "page 7 ¶2",
+   "numbers": [],
+   "type": "definition",
+   "population": "",
+   "caveat": "",
+   "relevance": 4,
+   "steer_theme": "eligibility",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C10",
+   "finding": "For Stage 1, nutrition therapy, physical activity and behaviour change are usually enough.",
+   "quote": "Lifestyle-related interventions like individualized medical nutrition therapy, physical activity and behavioural intervention should be initiated for obviating risk as seen in stage 2 obesity. In people with stage 1 obesity these measures would usually be sufficient.",
+   "location": "page 7 ¶7",
+   "numbers": [
+    "1"
+   ],
+   "type": "result",
+   "population": "People with Stage 1 obesity",
+   "caveat": "Guideline recommendation.",
+   "relevance": 5,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C11",
+   "finding": "Waist is measured with a non-stretch tape, horizontally, just above the hip bone, after breathing out normally.",
+   "quote": "Waist circumference is measured with a non-stretchable flexible tape in the horizontal position, just above the iliac crest at the end of normal expiration [41,42].",
+   "location": "page 5 ¶9",
+   "numbers": [],
+   "type": "method",
+   "population": "",
+   "caveat": "",
+   "relevance": 4,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C12",
+   "finding": "The definition came from expert consensus in a five-round Delphi process.",
+   "quote": "Method: In a Delphi process focused on obesity in India, experts were invited via email to participate in five rounds.",
+   "location": "page 1 ¶3",
+   "numbers": [],
+   "type": "method",
+   "population": "Indian experts",
+   "caveat": "Expert opinion, not outcome data.",
+   "relevance": 3,
+   "steer_theme": "other",
+   "verified": true,
+   "problems": []
+  }
+ ],
+ "dropped": [
+  {
+   "id": "C1",
+   "finding": "India's 2009 obesity guidelines used only BMI; this 2025 consensus redefines obesity for Asian Indians.",
+   "quote": "Aim: The prevailing guidelines for obesity in Asian Indians, published in 2009, relied solely on body mass index (BMI) criteria.",
+   "location": "page 1 ¶3",
+   "numbers": [
+    "2009"
+   ],
+   "type": "background",
+   "population": "Asian Indians",
+   "caveat": "",
+   "relevance": 4,
+   "steer_theme": "india-risk",
+   "verified": false,
+   "problems": [
+    "numbers not in quote: ['2025']"
+   ]
+  }
+ ],
+ "limitations": [
+  {
+   "text": "Consensus (expert opinion) rather than new outcome data",
+   "quote": "Method: In a Delphi process focused on obesity in India, experts were invited via email to participate in five rounds.",
+   "location": "page 1 ¶3"
+  },
+  {
+   "text": "More data needed on W-HtR",
+   "quote": "Despite progress, additional data is required to better understand the correlation between W-HtR, diabetes, and mortality.",
+   "location": "page 5 ¶4"
+  }
+ ],
+ "do_not_say": [
+  "\"You are obese if your BMI is above 23\" — that alone is Stage 1 with no health effect; avoid labelling individuals.",
+  "Any drug recommendations from the management section (CDSCO advisory).",
+  "\"Diabetes starts at BMI 21.8\" — it's a correlation in cited survey data.",
+  "Shaming language about body size."
+ ]
+}

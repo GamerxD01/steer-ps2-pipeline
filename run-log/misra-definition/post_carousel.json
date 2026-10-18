@@ -1,0 +1,187 @@
+{
+ "format": "carousel",
+ "message": "India's new obesity definition looks beyond the scale: BMI above 23, your waist, and whether daily life or health is affected.",
+ "reasoning": "Our audience either thinks 'BMI 25 is fine' (Western cut-offs) or feels labelled by one number. The new Indian expert definition is empowering: Indian-specific cut-offs, a waist check anyone can do at home, and a staging that separates 'extra fat, no harm yet' (Stage 1, where lifestyle is usually enough) from 'it's affecting my body' (Stage 2, see a doctor). It moves the conversation from weight to health without promoting any drug.",
+ "en": {
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "India's obesity definition, revised",
+    "headline": "Beyond the *scale*",
+    "sub": "Indian experts now look at BMI, your waist and your daily life together.",
+    "swipe": "swipe"
+   },
+   {
+    "type": "stat",
+    "kicker": "the Indian starting point",
+    "number": "BMI 23+",
+    "text": "For Asian Indians, extra body fat starts counting above a BMI of 23 kg/m².",
+    "note": "Indian-specific"
+   },
+   {
+    "type": "explain",
+    "kicker": "two stages, not one label",
+    "headline": "Stage 1 vs *Stage 2*",
+    "body": "Stage 1: BMI above 23, no effect yet on organs or daily life. Stage 2: BMI above 23 plus a high waist, with daily-life limits or a related disease.",
+    "note": ""
+   },
+   {
+    "type": "myth",
+    "myth": "BMI tells you everything.",
+    "truth": "BMI can't tell muscle from fat. Asian Indians show more disease at smaller waist sizes."
+   },
+   {
+    "type": "habit",
+    "kicker": "check at home",
+    "headline": "Grab a *tape*",
+    "bullets": [
+     "Waist: 90 cm+ (men), 80 cm+ (women)",
+     "Waist ÷ height above 0.5? Take note",
+     "Breathless or leg-joint pain doing chores? Tell a doctor"
+    ]
+   },
+   {
+    "type": "explain",
+    "kicker": "the good news",
+    "headline": "Stage 1 is a *habits* stage",
+    "body": "For Stage 1, nutrition therapy, physical activity and behaviour change are usually enough.",
+    "note": "start small"
+   },
+   {
+    "type": "cta",
+    "headline": "Know your *stage*, not just your weight.",
+    "sub": "A steer doctor can check your numbers with you."
+   }
+  ]
+ },
+ "hi": {
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "India ki obesity definition, nayi",
+    "headline": "Scale se *aage*",
+    "sub": "Indian experts ab BMI, kamar aur aapki daily life — teeno ek saath dekhte hain.",
+    "swipe": "swipe karo"
+   },
+   {
+    "type": "stat",
+    "kicker": "Indian starting point",
+    "number": "BMI 23+",
+    "text": "Asian Indians mein extra body fat BMI 23 kg/m² se upar se count hota hai.",
+    "note": "Indian-specific"
+   },
+   {
+    "type": "explain",
+    "kicker": "ek label nahi, do stage",
+    "headline": "Stage 1 vs *Stage 2*",
+    "body": "Stage 1: BMI 23 se upar, par organs ya daily life pe asar nahi. Stage 2: BMI 23 se upar + badi kamar, saath mein daily-life dikkat ya related bimari.",
+    "note": ""
+   },
+   {
+    "type": "myth",
+    "myth": "BMI sab kuch bata deta hai.",
+    "truth": "BMI muscle aur fat mein farak nahi kar sakta. Asian Indians mein chhoti kamar pe bhi bimari zyada dikhti hai."
+   },
+   {
+    "type": "habit",
+    "kicker": "ghar pe check karo",
+    "headline": "*Tape* uthao",
+    "bullets": [
+     "Kamar: 90 cm+ (purush), 80 cm+ (mahila)",
+     "Kamar ÷ height 0.5 se upar? Note karo",
+     "Ghar ke kaam mein saans phoolna ya pairon ke jodon mein dard? Doctor ko batao"
+    ]
+   },
+   {
+    "type": "explain",
+    "kicker": "achhi khabar",
+    "headline": "Stage 1 = *habits* ka stage",
+    "body": "Stage 1 mein nutrition therapy, physical activity aur behaviour change aksar kaafi hote hain.",
+    "note": "chhote se shuru karo"
+   },
+   {
+    "type": "cta",
+    "headline": "Sirf weight nahi, apna *stage* jaano.",
+    "sub": "steer ke doctor aapke numbers aapke saath check kar sakte hain."
+   }
+  ]
+ },
+ "caption_en": "Think a 'normal-looking' BMI means you're fine? India's revised obesity definition looks closer. In a five-round Delphi consensus, Indian experts set BMI above 23 kg/m² as the starting point for Asian Indians — and added the waist (90 cm+ men, 80 cm+ women, or waist-to-height above 0.5).\n\nThey also split obesity into stages: Stage 1 (extra fat, no effect on organs or daily life — lifestyle is usually enough) and Stage 2 (plus daily-life limits like breathlessness or leg-joint pain, or a related disease). Note: this is expert consensus, not new trial data.\n\nSource: Misra et al., Diabetes Metab Syndr 2025 (doi:10.1016/j.dsx.2024.102989)\nsteerclub.com",
+ "caption_hi": "Lagta hai BMI 'theek-thaak' hai toh sab theek? India ki revised obesity definition zyada dhyan se dekhti hai. Paanch round ke Delphi consensus mein Indian experts ne Asian Indians ke liye BMI 23 kg/m² se upar ko starting point rakha — aur kamar bhi jodi (purush 90 cm+, mahila 80 cm+, ya kamar ÷ height 0.5 se upar).\n\nObesity ko stages mein baanta: Stage 1 (extra fat, organs ya daily life pe asar nahi — lifestyle aksar kaafi) aur Stage 2 (saath mein daily-life dikkat jaise saans phoolna ya jodon ka dard, ya related bimari). Dhyan rahe: ye expert consensus hai, naya trial data nahi.\n\nSource: Misra et al., Diabetes Metab Syndr 2025 (doi:10.1016/j.dsx.2024.102989)\nsteerclub.com",
+ "hashtags": [
+  "steerclub",
+  "metabolichealth",
+  "waistsize",
+  "bmi",
+  "indianhealth",
+  "obesityawareness",
+  "healthyhabits",
+  "sciencesimplified",
+  "doctorled",
+  "hinglish"
+ ],
+ "alt_text": "Eight-slide carousel on India's revised obesity definition: BMI above 23 as the starting point for Asian Indians, Stage 1 vs Stage 2, BMI can't tell muscle from fat, home waist check (90 cm men, 80 cm women, waist-to-height above 0.5), lifestyle usually enough for Stage 1, and an invitation to check numbers with a steer doctor.",
+ "claim_map": [
+  {
+   "text": "For Asian Indians, extra body fat starts counting above a BMI of 23 kg/m².",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "Stage 1: BMI above 23, no effect yet on organs or daily life.",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "Stage 2: BMI above 23 plus a high waist, with daily-life limits or a related disease.",
+   "claim_ids": [
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "text": "BMI can't tell muscle from fat.",
+   "claim_ids": [
+    "C6"
+   ]
+  },
+  {
+   "text": "Asian Indians show more disease at smaller waist sizes.",
+   "claim_ids": [
+    "C8"
+   ]
+  },
+  {
+   "text": "Waist: 90 cm+ (men), 80 cm+ (women); Waist ÷ height above 0.5",
+   "claim_ids": [
+    "C5"
+   ]
+  },
+  {
+   "text": "Breathless or leg-joint pain doing chores? Tell a doctor",
+   "claim_ids": [
+    "C9"
+   ]
+  },
+  {
+   "text": "For Stage 1, nutrition therapy, physical activity and behaviour change are usually enough.",
+   "claim_ids": [
+    "C10"
+   ]
+  },
+  {
+   "text": "In a five-round Delphi consensus, Indian experts",
+   "claim_ids": [
+    "C12"
+   ]
+  }
+ ],
+ "checks": {
+  "issues": [],
+  "passed": true,
+  "verified_claims": 11,
+  "dropped_claims": 1
+ }
+}

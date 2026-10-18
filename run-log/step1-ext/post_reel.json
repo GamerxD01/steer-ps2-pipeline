@@ -1,0 +1,242 @@
+{
+ "format": "reel",
+ "message": "Weight coming back after stopping treatment is biology, not failure — so plan for maintenance from day one.",
+ "reasoning": "Regain is the #1 fear in our GLP-1 user research ('agar band kiya toh sab wapas?'). This trial answers it honestly: yes, most of it came back when BOTH the medicine and lifestyle support stopped — but not all, and the body's pushback is biological, not a willpower failure. That replaces shame with a plan and points to a doctor-led maintenance conversation, without promoting any drug (CDSCO March 2026).",
+ "en": {
+  "scenes": [
+   {
+    "onscreen": "Stopped the *injection*. Then what?",
+    "vo": "What happens a year after people stop a weight-loss injection? A big trial followed them.",
+    "visual": "kinetic-text",
+    "data": {}
+   },
+   {
+    "onscreen": "68 weeks: *17.3%* down",
+    "vo": "Over 68 weeks of treatment, people lost 17.3% of their weight on average.",
+    "visual": "big-number",
+    "data": {
+     "number": "17.3%"
+    }
+   },
+   {
+    "onscreen": "1 year off: *2/3* came back",
+    "vo": "Then the injection and the lifestyle support both stopped. Within a year, about two-thirds came back.",
+    "visual": "big-number",
+    "data": {
+     "number": "2/3"
+    }
+   },
+   {
+    "onscreen": "But not *all* of it",
+    "vo": "Still, they stayed 5.6% below where they started, and 48.2% kept off at least 5%.",
+    "visual": "chart",
+    "data": {
+     "points": [
+      [
+       0,
+       0,
+       "start",
+       "week 0"
+      ],
+      [
+       68,
+       -17.3,
+       "-17.3%",
+       "week 68"
+      ],
+      [
+       120,
+       -5.6,
+       "-5.6%",
+       "week 120"
+      ]
+     ],
+     "caption": "Average weight change, treatment group"
+    }
+   },
+   {
+    "onscreen": "Your body *pulls back*",
+    "vo": "Why? After weight loss, the body triggers changes that push weight back up. Regain is common.",
+    "visual": "kinetic-text",
+    "data": {}
+   },
+   {
+    "onscreen": "Plan the *exit*",
+    "vo": "Here, lifestyle support stopped too, which the authors say may have added to the regain.",
+    "visual": "habit-list",
+    "data": {
+     "bullets": [
+      "Make a maintenance plan *before* stopping",
+      "Keep the lifestyle support going",
+      "Keep checking *sugar* and BP"
+     ]
+    }
+   },
+   {
+    "onscreen": "Your *long-term* plan, with a doctor",
+    "vo": "Talk to a steer doctor about a long-term plan that fits you.",
+    "visual": "cta",
+    "data": {}
+   }
+  ]
+ },
+ "hi": {
+  "scenes": [
+   {
+    "onscreen": "Injection *band*. Phir kya?",
+    "vo": "Weight-loss injection band karne ke ek saal baad kya hota hai? Ek bade trial ne yahi dekha.",
+    "visual": "kinetic-text",
+    "data": {}
+   },
+   {
+    "onscreen": "68 hafte: *17.3%* kam",
+    "vo": "Treatment ke 68 hafton mein, log average 17.3% weight kam kar paaye.",
+    "visual": "big-number",
+    "data": {
+     "number": "17.3%"
+    }
+   },
+   {
+    "onscreen": "1 saal baad: *2/3* wapas",
+    "vo": "Phir injection aur lifestyle support, dono band. Ek saal mein lagbhag do-tihaai weight wapas aa gaya.",
+    "visual": "big-number",
+    "data": {
+     "number": "2/3"
+    }
+   },
+   {
+    "onscreen": "Par *sab* nahi",
+    "vo": "Phir bhi, shuruaat se 5.6% kam rahe, aur 48.2% log 5% se zyada kam pe tike rahe.",
+    "visual": "chart",
+    "data": {
+     "points": [
+      [
+       0,
+       0,
+       "start",
+       "week 0"
+      ],
+      [
+       68,
+       -17.3,
+       "-17.3%",
+       "week 68"
+      ],
+      [
+       120,
+       -5.6,
+       "-5.6%",
+       "week 120"
+      ]
+     ],
+     "caption": "Average weight change, treatment group"
+    }
+   },
+   {
+    "onscreen": "Body *wapas* kheenchti hai",
+    "vo": "Kyun? Weight kam hone par body khud aise changes karti hai jo weight wapas badhaate hain.",
+    "visual": "kinetic-text",
+    "data": {}
+   },
+   {
+    "onscreen": "Exit ka *plan* banao",
+    "vo": "Is trial mein lifestyle support bhi band hua tha, aur authors kehte hain isse regain badh sakta hai.",
+    "visual": "habit-list",
+    "data": {
+     "bullets": [
+      "Band karne se *pehle* maintenance plan",
+      "Lifestyle support chalu rakho",
+      "*Sugar* aur BP check karte raho"
+     ]
+    }
+   },
+   {
+    "onscreen": "Apna *long-term* plan, doctor ke saath",
+    "vo": "steer ke doctor se baat karo, apne liye sahi long-term plan samjho.",
+    "visual": "cta",
+    "data": {}
+   }
+  ]
+ },
+ "caption_en": "\"If I stop, will it all come back?\" It's the question we hear most. In the STEP 1 extension, adults stopped a weekly weight-loss injection AND their lifestyle support at week 68. A year later, about two-thirds of the lost weight had returned — but on average they were still 5.6% below where they started, and 48.2% kept off at least 5%.\n\nRegain isn't a willpower failure; after weight loss the body pushes back. So any plan needs an exit plan. Note: most participants were White adults in 5 high-income countries, and several authors work for the manufacturer.\n\nSource: Wilding et al., Diabetes Obes Metab 2022 (doi:10.1111/dom.14725)\nsteerclub.com",
+ "caption_hi": "\"Band kiya toh sab wapas aa jayega?\" — sabse common sawaal. STEP 1 extension mein adults ne week 68 pe weekly weight-loss injection AUR lifestyle support dono band kiye. Ek saal baad lagbhag do-tihaai weight wapas aaya — par average mein woh shuruaat se 5.6% kam the, aur 48.2% ne 5% se zyada kam rakha.\n\nRegain willpower ki haar nahi hai; weight kam hone par body wapas kheenchti hai. Isliye har plan ke saath exit plan zaroori hai. Dhyan rahe: zyada participants White the, 5 ameer deshon se, aur kuch authors manufacturer ke employee hain.\n\nSource: Wilding et al., Diabetes Obes Metab 2022 (doi:10.1111/dom.14725)\nsteerclub.com",
+ "hashtags": [
+  "steerclub",
+  "weightregain",
+  "metabolichealth",
+  "obesityisachronicdisease",
+  "sciencesimplified",
+  "indianhealth",
+  "healthyindia",
+  "doctorled",
+  "weightmanagement",
+  "hinglish"
+ ],
+ "alt_text": "Animated reel. Text cards and a line chart: average weight fell 17.3% by week 68 of treatment, then rose to 5.6% below the start by week 120 after treatment and lifestyle support stopped. Ends with an invitation to talk to a steer doctor.",
+ "claim_map": [
+  {
+   "text": "Over 68 weeks of treatment, people lost 17.3% of their weight on average.",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "Then the injection and the lifestyle support both stopped. Within a year, about two-thirds came back.",
+   "claim_ids": [
+    "C1"
+   ]
+  },
+  {
+   "text": "Still, they stayed 5.6% below where they started, and 48.2% kept off at least 5%.",
+   "claim_ids": [
+    "C3",
+    "C4"
+   ]
+  },
+  {
+   "text": "chart: 0 → -17.3% (week 68) → -5.6% (week 120)",
+   "claim_ids": [
+    "C2",
+    "C3"
+   ]
+  },
+  {
+   "text": "After weight loss, the body triggers changes that push weight back up. Regain is common.",
+   "claim_ids": [
+    "C9"
+   ]
+  },
+  {
+   "text": "Here, lifestyle support stopped too, which the authors say may have added to the regain.",
+   "claim_ids": [
+    "C11"
+   ]
+  },
+  {
+   "text": "Keep checking sugar and BP",
+   "claim_ids": [
+    "C6",
+    "C7"
+   ]
+  },
+  {
+   "text": "In the STEP 1 extension, adults stopped a weekly weight-loss injection AND their lifestyle support at week 68.",
+   "claim_ids": [
+    "C1",
+    "C2"
+   ]
+  },
+  {
+   "text": "most participants were White adults in 5 high-income countries, and several authors work for the manufacturer.",
+   "claim_ids": [
+    "C13"
+   ]
+  }
+ ],
+ "checks": {
+  "issues": [],
+  "passed": true,
+  "verified_claims": 14,
+  "dropped_claims": 0
+ }
+}

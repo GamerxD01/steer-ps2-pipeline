@@ -1,0 +1,2 @@
+{"step": "extract", "provider": "session", "model": "claude-session", "prompt_chars": 11060, "ts": "2026-10-17T20:45:40"}
+{"step": "create_static", "provider": "session", "model": "claude-session", "prompt_chars": 9547, "ts": "2026-10-17T20:45:40"}

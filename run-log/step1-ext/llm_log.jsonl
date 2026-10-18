@@ -1,0 +1,3 @@
+{"step": "extract", "provider": "session", "model": "claude-session", "prompt_chars": 23973, "ts": "2026-10-17T20:42:43"}
+{"step": "create_reel", "provider": "session", "model": "claude-session", "prompt_chars": 12042, "ts": "2026-10-17T20:42:43"}
+{"step": "create_reel_repair", "provider": "session", "model": "claude-session", "prompt_chars": 18865, "ts": "2026-10-17T20:42:43"}

@@ -1,0 +1,6 @@
+# steer research-to-Instagram demo batch · one line per paper
+# <doi | pdf | doc.json> | formats | slug=… | vo=…   (a bare DOI works once Europe PMC is reachable)
+papers/indiab23-2025.json | carousel | slug=indiab-mono
+papers/step1ext2022.json | reel | slug=step1-ext | vo=papers/vo/steer-ps2-vo-step1ext.mp3
+papers/wyatt2021.json | static | slug=wyatt-dips
+papers/paper-misra2025-india-obesity.pdf | carousel | slug=misra-definition

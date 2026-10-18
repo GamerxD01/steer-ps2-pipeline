@@ -1,0 +1,208 @@
+{
+ "paper": {
+  "title": "Postprandial glycaemic dips predict appetite and energy intake in healthy individuals",
+  "journal": "Nature Metabolism",
+  "year": "2021",
+  "doi": "10.1038/s42255-021-00383-x",
+  "design": "Observational cohort (PREDICT 1) with continuous glucose monitors, standardised breakfasts and free-living meals over ~2 weeks",
+  "population": "1,070 healthy adults without diabetes from the UK (discovery) and US (validation); 97% white",
+  "funding_or_coi": "Funded by Zoe Global Ltd (a commercial nutrition company), Wellcome Trust, NIHR"
+ },
+ "verified": [
+  {
+   "id": "C1",
+   "finding": "A blood-sugar dip 2–3 hours after a meal predicted hunger and later eating better than the post-meal sugar peak did.",
+   "quote": "Here, we show that postprandial glucose dips 2-3h after a meal are a better predictor of postprandial self-reported hunger and subsequent energy intake than peak glucose 0-2h and glucose iAUC 0-2h.",
+   "location": "p1",
+   "numbers": [],
+   "type": "result",
+   "population": "Healthy UK/US adults without diabetes",
+   "caveat": "Association, not proof that the dip causes hunger.",
+   "relevance": 5,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C2",
+   "finding": "People with the biggest dips ate about 312 kcal more over the next 24 hours than people with the smallest dips.",
+   "quote": "The participants with the largest average Glucose Dip2-3h (Q4) also had on average a +9%; (95% CI 5,13) increase in reported Hunger2-3h, a -2% (95% CI 1,5) decrease in Alertness level2-3h, a -24 minutes (95% CI 15,33) shorter time until the next meal, a +75 kcal (95% CI 47,103) higher Energy intake3-4h, and a +312 kcal (95% CI 226,398) higher overall Energy intake24h, compared to the participants with the smallest Glucose Dip2-3h (Q1).",
+   "location": "p46",
+   "numbers": [
+    "312",
+    "24"
+   ],
+   "type": "result",
+   "population": "763 UK participants who ate all 5 core breakfasts",
+   "caveat": "Comparison of top vs bottom quarter of dippers; self-reported food logs.",
+   "relevance": 5,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C3",
+   "finding": "Big dippers reached for their next meal about 24 minutes sooner and felt 9% hungrier.",
+   "quote": "The participants with the largest average Glucose Dip2-3h (Q4) also had on average a +9%; (95% CI 5,13) increase in reported Hunger2-3h, a -2% (95% CI 1,5) decrease in Alertness level2-3h, a -24 minutes (95% CI 15,33) shorter time until the next meal",
+   "location": "p46",
+   "numbers": [
+    "24",
+    "9%"
+   ],
+   "type": "result",
+   "population": "763 UK participants",
+   "caveat": "Average differences between groups; individuals vary.",
+   "relevance": 4,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C4",
+   "finding": "The study tracked 1070 people eating 8,624 standard breakfasts and 71,715 everyday meals with glucose monitors.",
+   "quote": "We explore the link between postprandial glucose, appetite, and subsequent energy intake in 1070 participants from a UK discovery and US validation cohort, consuming 8,624 standardised meals followed by 71,715 ad libitum meals, using continuous glucose monitors to record postprandial glycemia.",
+   "location": "p1",
+   "numbers": [
+    "1070",
+    "8,624",
+    "71,715"
+   ],
+   "type": "method",
+   "population": "UK + US adults",
+   "caveat": "",
+   "relevance": 3,
+   "steer_theme": "other",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C5",
+   "finding": "The same person eating the same meal on different days still ate more after the days with a bigger dip.",
+   "quote": "Even when holding constant both the food and the individual, Glucose Dips2-3h were modestly but significantly correlated with time until next meal (r=-0.06 P=<0.001), Energy intake3-4h (r=0.08 P=<0.001), and Energy intake24h (r=0.06 P=<0.001).",
+   "location": "p51",
+   "numbers": [],
+   "type": "result",
+   "population": "1053 participants, repeated meals",
+   "caveat": "Correlations are small (r≈0.06–0.08).",
+   "relevance": 4,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C6",
+   "finding": "The biggest dips came after the meal with the biggest sugar spike (a glucose drink).",
+   "quote": "Between the standardised meals, the largest glucose dips followed the meal with the largest glucose rise (OGTT).",
+   "location": "p57",
+   "numbers": [],
+   "type": "result",
+   "population": "Study participants",
+   "caveat": "OGTT is a pure glucose drink, not a normal meal.",
+   "relevance": 4,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C7",
+   "finding": "The authors suggest high-glycaemic foods like potatoes and sugary drinks could lead to dips and later hunger.",
+   "quote": "Our analysis may partly explain why observational epidemiological ((27)(28)) studies have shown strong correlations between foods with high glycemic loads (such as potatoes and sugar sweetened beverages (29)) and weight gain – as consumption of such foods could lead to glucose dips and subsequent hunger.",
+   "location": "p57",
+   "numbers": [],
+   "type": "result",
+   "population": "Authors' interpretation",
+   "caveat": "Hypothesis ('may partly explain'), not tested in this study.",
+   "relevance": 4,
+   "steer_theme": "habits",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C8",
+   "finding": "Hunger after dieting is a known reason weight comes back.",
+   "quote": "In addition to decreases in resting energy expenditure (5) there is also considerable evidence for increases in postprandial appetite following hypocaloric diets and caloric restriction (e.g. (6),(7),(8)).",
+   "location": "p3",
+   "numbers": [],
+   "type": "background",
+   "population": "General background",
+   "caveat": "Background citing other studies.",
+   "relevance": 4,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C9",
+   "finding": "The link is real but small: glucose dips are only one part of why we eat.",
+   "quote": "The decision to eat is determined by many social, psychological and physiological factors, and glucose dips are just one part of the picture.",
+   "location": "p58",
+   "numbers": [],
+   "type": "limitation",
+   "population": "",
+   "caveat": "",
+   "relevance": 5,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C10",
+   "finding": "Participants were 97% white, so results may not apply directly to Indian bodies and diets.",
+   "quote": "In addition, there was limited ethnic diversity in our study population (97% white).",
+   "location": "p59",
+   "numbers": [
+    "97%"
+   ],
+   "type": "limitation",
+   "population": "Study sample",
+   "caveat": "No South Asian data.",
+   "relevance": 5,
+   "steer_theme": "india-risk",
+   "verified": true,
+   "problems": []
+  },
+  {
+   "id": "C11",
+   "finding": "The dip predicted later eating about as well as people's own hunger ratings.",
+   "quote": "It is notable that the Glucose Dip2-3h was as good a predictor of subsequent energy intake as the participants’ self-reported Hunger2-3h.",
+   "location": "p55",
+   "numbers": [],
+   "type": "result",
+   "population": "UK cohort",
+   "caveat": "",
+   "relevance": 3,
+   "steer_theme": "hunger",
+   "verified": true,
+   "problems": []
+  }
+ ],
+ "dropped": [],
+ "limitations": [
+  {
+   "text": "Small correlations",
+   "quote": "It should be noted that the degree of association (correlation values) between glucose dips and appetite variables is relatively small, and therefore contributes only partly to postprandial satiety.",
+   "location": "p58"
+  },
+  {
+   "text": "Self-reported food",
+   "quote": "Secondly, for the ad libitum meals the meal content is self-reported.",
+   "location": "p59"
+  },
+  {
+   "text": "97% white sample",
+   "quote": "In addition, there was limited ethnic diversity in our study population (97% white).",
+   "location": "p59"
+  },
+  {
+   "text": "Commercial funder",
+   "quote": "Zoe Global Ltd, Wellcome Trust, NIHR.",
+   "location": "p2"
+  }
+ ],
+ "do_not_say": [
+  "\"Sugar crashes make you fat\" — association with intake over 24h, not weight gain.",
+  "\"Wear a CGM to lose weight\" — not tested; funder sells CGM-based programmes.",
+  "\"Potatoes/rice cause weight gain\" — authors only hypothesise; Indian staples not studied.",
+  "\"Proven cause of hunger\" — observational, small correlations."
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "format": "carousel",
+ "message": "In India, a 'normal' BMI doesn't mean metabolically healthy — check your waist, BP and sugar, not just the scale.",
+ "reasoning": "Our research found 'I'm not fat, so this isn't for me' and 'BMI says normal' as common blind spots. This national ICMR study shows the biggest group of Indian adults is normal-BMI but metabolically unhealthy, with higher diabetes odds. It turns a scary number into one simple action (measure waist, check BP/sugar) and positions steer as the place for a doctor-led metabolic check — without promoting any medicine.",
+ "en": {
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "ICMR national study, 2025",
+    "headline": "Normal BMI. Still *at risk?*",
+    "sub": "The biggest group of Indian adults looks 'fine' on the scale — but not inside.",
+    "swipe": "swipe"
+   },
+   {
+    "type": "stat",
+    "kicker": "thin outside, unhealthy inside",
+    "number": "43.3%",
+    "text": "of Indian adults had BMI under 25 but 2 or more metabolic risk factors.",
+    "note": "the largest group"
+   },
+   {
+    "type": "stat",
+    "kicker": "only one in four",
+    "number": "26.6%",
+    "text": "were both normal-BMI and metabolically healthy.",
+    "note": ""
+   },
+   {
+    "type": "explain",
+    "kicker": "why it matters",
+    "headline": "Higher *diabetes* odds",
+    "body": "This group had about 6.9 times the odds of type 2 diabetes compared with healthy normal-weight adults. More than a third of people in their 20s were already in it.",
+    "note": "a snapshot, not a verdict"
+   },
+   {
+    "type": "myth",
+    "myth": "My BMI is normal, so I'm healthy.",
+    "truth": "A normal BMI can hide excess body fat. Waist size predicts risk better than BMI."
+   },
+   {
+    "type": "habit",
+    "kicker": "the 5 signals the study used",
+    "headline": "Check these, not just *weight*",
+    "bullets": [
+     "Waist: 90 cm+ (men), 80 cm+ (women)",
+     "Fasting sugar 100+ or BP 130/85+",
+     "Triglycerides 150+ or low HDL"
+    ]
+   },
+   {
+    "type": "cta",
+    "headline": "Know your *metabolic* numbers, not just your weight.",
+    "sub": "Talk to a steer doctor about a simple metabolic check."
+   }
+  ]
+ },
+ "hi": {
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "ICMR national study, 2025",
+    "headline": "BMI normal. Phir bhi *risk?*",
+    "sub": "Bharat ke adults ka sabse bada group scale pe 'fine' dikhta hai — andar se nahi.",
+    "swipe": "swipe karo"
+   },
+   {
+    "type": "stat",
+    "kicker": "bahar se patle, andar se unhealthy",
+    "number": "43.3%",
+    "text": "Indian adults ka BMI 25 se kam tha, par 2 ya zyada metabolic risk factors the.",
+    "note": "sabse bada group"
+   },
+   {
+    "type": "stat",
+    "kicker": "sirf chaar mein ek",
+    "number": "26.6%",
+    "text": "log hi normal BMI aur metabolically healthy, dono the.",
+    "note": ""
+   },
+   {
+    "type": "explain",
+    "kicker": "kyun zaroori hai",
+    "headline": "*Diabetes* ke zyada chances",
+    "body": "Is group mein type 2 diabetes ke odds healthy normal-weight logon se lagbhag 6.9 guna the. 20 ki umar waalon mein bhi ek-tihaai se zyada isme the.",
+    "note": "snapshot hai, faisla nahi"
+   },
+   {
+    "type": "myth",
+    "myth": "Mera BMI normal hai, toh main healthy hoon.",
+    "truth": "Normal BMI extra body fat chhupa sakta hai. Kamar ka naap BMI se behtar risk batata hai."
+   },
+   {
+    "type": "habit",
+    "kicker": "study ke 5 signals",
+    "headline": "Sirf *weight* nahi, ye check karo",
+    "bullets": [
+     "Kamar: 90 cm+ (purush), 80 cm+ (mahila)",
+     "Fasting sugar 100+ ya BP 130/85+",
+     "Triglycerides 150+ ya HDL kam"
+    ]
+   },
+   {
+    "type": "cta",
+    "headline": "Sirf weight nahi, apne *metabolic* numbers jaano.",
+    "sub": "steer ke doctor se ek simple metabolic check ke baare mein baat karo."
+   }
+  ]
+ },
+ "caption_en": "\"My BMI is normal, I'm fine\" — maybe not. ICMR's national INDIAB study found 43.3% of Indian adults had a BMI under 25 but two or more metabolic risk factors (big waist, high BP, sugar, triglycerides or low HDL). Only 26.6% were normal-BMI AND metabolically healthy. This group had about 6.9 times the odds of type 2 diabetes vs healthy normal-weight adults.\n\nThe fix starts simple: a measuring tape, a BP check, a fasting sugar test. Note: it's a one-time survey, so it can't prove cause and effect.\n\nSource: Deepa et al., Indian J Med Res 2025 (doi:10.25259/IJMR_328_2025)\nsteerclub.com",
+ "caption_hi": "\"Mera BMI normal hai, sab theek hai\" — shayad nahi. ICMR ki national INDIAB study mein 43.3% Indian adults ka BMI 25 se kam tha, par 2 ya zyada metabolic risk factors the (badi kamar, high BP, sugar, triglycerides ya kam HDL). Sirf 26.6% log normal BMI AUR metabolically healthy the. Is group mein type 2 diabetes ke odds lagbhag 6.9 guna the.\n\nShuruaat simple hai: ek measuring tape, BP check, fasting sugar test. Dhyan rahe: ye ek-baar ka survey hai, cause-effect prove nahi karta.\n\nSource: Deepa et al., Indian J Med Res 2025 (doi:10.25259/IJMR_328_2025)\nsteerclub.com",
+ "hashtags": [
+  "steerclub",
+  "metabolichealth",
+  "thinoutsidefatinside",
+  "bmi",
+  "waistsize",
+  "diabetesawareness",
+  "indianhealth",
+  "icmr",
+  "sciencesimplified",
+  "hinglish"
+ ],
+ "alt_text": "Seven-slide carousel. 43.3% of Indian adults had a BMI under 25 but two or more metabolic risk factors; only 26.6% were normal-BMI and metabolically healthy; this group had about 6.9 times the odds of type 2 diabetes. Myth vs fact on BMI, the five signals (waist, sugar, BP, triglycerides, HDL), and an invitation to a doctor-led metabolic check.",
+ "claim_map": [
+  {
+   "text": "The biggest group of Indian adults looks 'fine' on the scale — but not inside.",
+   "claim_ids": [
+    "C1"
+   ]
+  },
+  {
+   "text": "43.3% of Indian adults had BMI under 25 but 2 or more metabolic risk factors.",
+   "claim_ids": [
+    "C1",
+    "C3"
+   ]
+  },
+  {
+   "text": "26.6% were both normal-BMI and metabolically healthy.",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "about 6.9 times the odds of type 2 diabetes compared with healthy normal-weight adults",
+   "claim_ids": [
+    "C4"
+   ]
+  },
+  {
+   "text": "More than a third of people in their 20s were already in it.",
+   "claim_ids": [
+    "C7"
+   ]
+  },
+  {
+   "text": "A normal BMI can hide excess body fat. Waist size predicts risk better than BMI.",
+   "claim_ids": [
+    "C6"
+   ]
+  },
+  {
+   "text": "Waist: 90 cm+ (men), 80 cm+ (women); Fasting sugar 100+ or BP 130/85+; Triglycerides 150+ or low HDL",
+   "claim_ids": [
+    "C3"
+   ]
+  },
+  {
+   "text": "a measuring tape, a BP check, a fasting sugar test",
+   "claim_ids": [
+    "C8"
+   ]
+  },
+  {
+   "text": "it's a one-time survey, so it can't prove cause and effect",
+   "claim_ids": [
+    "C11"
+   ]
+  }
+ ],
+ "checks": {
+  "issues": [],
+  "passed": true,
+  "verified_claims": 11,
+  "dropped_claims": 0
+ }
+}

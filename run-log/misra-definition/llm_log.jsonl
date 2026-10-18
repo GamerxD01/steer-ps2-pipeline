@@ -1,0 +1,2 @@
+{"step": "extract", "provider": "session", "model": "claude-session", "prompt_chars": 76572, "ts": "2026-10-17T20:45:43"}
+{"step": "create_carousel", "provider": "session", "model": "claude-session", "prompt_chars": 8743, "ts": "2026-10-17T20:45:43"}

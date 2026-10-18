@@ -1,0 +1,22 @@
+[
+ {
+  "step": "ingest",
+  "seconds": 0.0
+ },
+ {
+  "step": "extract",
+  "seconds": 0.0
+ },
+ {
+  "step": "verify",
+  "seconds": 0.0
+ },
+ {
+  "step": "create-static",
+  "seconds": 0.0
+ },
+ {
+  "step": "render-static",
+  "seconds": 1.9
+ }
+]

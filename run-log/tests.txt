@@ -1,0 +1,12 @@
+tests/test_pdf.py::test_metadata_from_page_one PASSED
+tests/test_pdf.py::test_sections_found_and_references_skipped PASSED
+tests/test_pdf.py::test_quote_spanning_lines_and_hyphenation_verifies PASSED
+tests/test_pdf.py::test_web_and_pdf_routes_agree PASSED
+tests/test_verify.py::test_real_quote_passes_and_location_is_corrected PASSED
+tests/test_verify.py::test_paraphrased_quote_is_dropped PASSED
+tests/test_verify.py::test_invented_number_in_finding_is_dropped PASSED
+tests/test_verify.py::test_unicode_and_spacing_differences_still_match PASSED
+tests/test_verify.py::test_number_parser_ignores_names_and_canonicalises PASSED
+tests/test_verify.py::test_post_checks PASSED
+tests/test_verify.py::test_doi_digits_are_not_treated_as_stats PASSED
+============================== 11 passed in 0.51s ==============================

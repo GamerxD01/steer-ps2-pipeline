@@ -1,0 +1,90 @@
+{
+ "format": "static",
+ "message": "That hunger 2–3 hours after a meal can be a blood-sugar dip, not a willpower problem.",
+ "reasoning": "Our audience blames themselves for the 4 pm snack attack. This large glucose-monitor study links the dip after a sugar spike to more hunger and more eating later — a body signal, not a character flaw. It reframes guilt into curiosity ('what did I eat at lunch?') without promising weight loss. We flag that it is an association, the effect is small, and 97% of participants were white.",
+ "en": {
+  "kicker": "the 4 pm hunger, explained",
+  "stat": "+312 kcal",
+  "headline": "That snack attack may be a *sugar dip*",
+  "support": "People whose blood sugar dipped most 2–3 hours after breakfast ate about 312 kcal more over the next 24 hours.",
+  "note": "a signal, not a failing"
+ },
+ "hi": {
+  "kicker": "4 baje wali bhookh, samjho",
+  "stat": "+312 kcal",
+  "headline": "Woh snack craving shayad *sugar dip* hai",
+  "support": "Breakfast ke 2–3 ghante baad jinka blood sugar sabse zyada gira, unhone agle 24 ghante mein lagbhag 312 kcal zyada khaya.",
+  "note": "signal hai, kamzori nahi"
+ },
+ "caption_en": "Ever feel starving at 4 pm even after a proper lunch? A study that put glucose monitors on 1070 adults found that a blood-sugar DIP 2–3 hours after eating predicted hunger and later eating better than the sugar spike itself. The biggest dippers ate about 312 kcal more over the next 24 hours.\n\nIn the study, the biggest dips came after the test meal with the biggest sugar spike (a glucose drink). Fair warning: this is an association, the effect is small, food was self-reported, and 97% of participants were white — Indian meals weren't tested. Hunger has many causes; this is one.\n\nSource: Wyatt et al., Nature Metabolism 2021 (doi:10.1038/s42255-021-00383-x)\nsteerclub.com",
+ "caption_hi": "Proper lunch ke baad bhi 4 baje zor ki bhookh? 1070 adults par glucose monitor lagakar ek study ne dekha ki khaane ke 2–3 ghante baad blood sugar ka GIRNA (dip) — spike se zyada — bhookh aur baad mein khaane ko predict karta hai. Sabse bade dip waale log agle 24 ghante mein lagbhag 312 kcal zyada khaaye.\n\nStudy mein sabse bade dip us test meal ke baad aaye jisme sugar spike sabse zyada tha (glucose drink). Dhyan rahe: ye association hai, effect chhota hai, khaana self-reported tha, aur 97% log white the — Indian khaana test nahi hua. Bhookh ke kai kaaran hain; ye unme se ek hai.\n\nSource: Wyatt et al., Nature Metabolism 2021 (doi:10.1038/s42255-021-00383-x)\nsteerclub.com",
+ "hashtags": [
+  "steerclub",
+  "bloodsugar",
+  "hungerpangs",
+  "4pmcravings",
+  "metabolichealth",
+  "sciencesimplified",
+  "indianhealth",
+  "mindfuleating",
+  "glucose",
+  "hinglish"
+ ],
+ "alt_text": "Cream card with a large terracotta '+312 kcal' and the headline 'That snack attack may be a sugar dip'. Supporting text: people whose blood sugar dipped most 2–3 hours after breakfast ate about 312 kcal more over the next 24 hours.",
+ "claim_map": [
+  {
+   "text": "That snack attack may be a sugar dip",
+   "claim_ids": [
+    "C1"
+   ]
+  },
+  {
+   "text": "+312 kcal",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "People whose blood sugar dipped most 2–3 hours after breakfast ate about 312 kcal more over the next 24 hours.",
+   "claim_ids": [
+    "C2"
+   ]
+  },
+  {
+   "text": "A study that put glucose monitors on 1070 adults",
+   "claim_ids": [
+    "C4"
+   ]
+  },
+  {
+   "text": "a blood-sugar DIP 2–3 hours after eating predicted hunger and later eating better than the sugar spike itself",
+   "claim_ids": [
+    "C1"
+   ]
+  },
+  {
+   "text": "In the study, the biggest dips came after the test meal with the biggest sugar spike (a glucose drink).",
+   "claim_ids": [
+    "C6"
+   ]
+  },
+  {
+   "text": "the effect is small",
+   "claim_ids": [
+    "C9"
+   ]
+  },
+  {
+   "text": "97% of participants were white",
+   "claim_ids": [
+    "C10"
+   ]
+  }
+ ],
+ "checks": {
+  "issues": [],
+  "passed": true,
+  "verified_claims": 11,
+  "dropped_claims": 0
+ }
+}

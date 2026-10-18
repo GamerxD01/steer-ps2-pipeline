@@ -1,0 +1,3 @@
+YOUR PREVIOUS ANSWER FAILED THESE CHECKS — fix every one and return the full JSON again:
+- number(s) ['327', '68'] not in cited claims: 'In the STEP 1 extension, 327 adults stopped a weekly weight-loss injection AND their lifestyle support at week 68.'
+- number(s) ['327'] in post but in no verified claim
